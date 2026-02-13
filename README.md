@@ -42,9 +42,9 @@ Six classification models were implemented on the **same preprocessed dataset** 
 * F1 Score
 * Matthews Correlation Coefficient (MCC)
 
----
 
-### 📊 Model Comparison Table (Evaluation Metrics)
+
+### 4. 📊 Model Comparison Table (Evaluation Metrics)
 
 | **ML Model Name**        | **Accuracy** | **AUC**    | **Precision** | **Recall** | **F1 Score** | **MCC**    |
 | ------------------------ | ------------ | ---------- | ------------- | ---------- | ------------ | ---------- |
@@ -59,7 +59,7 @@ Six classification models were implemented on the **same preprocessed dataset** 
 
 ---
 
-### 📝 Observations on Model Performance 
+### 5.📝 Observations on Model Performance 
 
 | **ML Model Name**        | **Observation about model performance**                                                                                                                                  |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
