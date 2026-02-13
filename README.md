@@ -1,5 +1,4 @@
-Below is a **complete, submission-ready `README.md`** written in **Markdown**, strictly following the **required structure** shown in your images.
-You can **copy–paste this directly** into `README.md` **and also include it in the PDF**.
+# READ ME
 
 ---
 
