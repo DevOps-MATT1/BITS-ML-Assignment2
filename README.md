@@ -57,7 +57,7 @@ Six classification models were implemented on the **same preprocessed dataset** 
 
 > **Note**: Gradient Boosting Classifier from Scikit-learn was used as an alternative to XGBoost due to Python 3.13 compatibility constraints.
 
----
+
 
 ### 5.📝 Observations on Model Performance 
 
@@ -70,7 +70,7 @@ Six classification models were implemented on the **same preprocessed dataset** 
 | Random Forest (Ensemble) | Achieved the **best overall performance** across most metrics, including highest accuracy, AUC, F1-score, and MCC, indicating strong robustness and generalization.      |
 | XGBoost (Ensemble)       | Delivered excellent predictive performance with very high AUC and F1-score, slightly lower than Random Forest but still highly effective due to boosting-based learning. |
 
----
+
 
 ### ✅ Conclusion
 
