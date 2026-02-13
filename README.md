@@ -1,7 +1,3 @@
-# READ ME
-
----
-
 # 📘 Loan Approval Prediction – Classification Models Comparison
 
 ---
