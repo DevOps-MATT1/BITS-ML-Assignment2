@@ -1,15 +1,14 @@
-# 📘 Loan Approval Prediction – Classification Models Comparison
+# Loan Approval Prediction – Classification Models Comparison
 
----
 
-## a. Problem Statement
+## 1. Problem Statement
 
 The objective of this project is to build and evaluate multiple **classification models** to predict whether a loan application will be **approved or not** based on applicant and loan-related attributes.
 The task involves applying different machine learning algorithms on the **same dataset**, evaluating them using standard performance metrics, and comparing their effectiveness.
 
----
 
-## b. Dataset Description 
+
+## 2. Dataset Description 
 
 The dataset used for this project is a **Loan Approval dataset**, which contains information related to loan applicants such as personal details, financial status, and loan characteristics.
 
@@ -30,9 +29,9 @@ The dataset used for this project is a **Loan Approval dataset**, which contains
 
 The dataset contains both **categorical and numerical variables**, requiring preprocessing such as encoding and scaling before model training.
 
----
 
-## c. Models Used 
+
+## 3. Models Used 
 
 Six classification models were implemented on the **same preprocessed dataset** and evaluated using the following metrics:
 
