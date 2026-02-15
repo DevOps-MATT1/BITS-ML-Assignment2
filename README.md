@@ -5,6 +5,8 @@
 
 A comprehensive machine learning system for predicting loan approval status using multiple classification algorithms. This project includes model training, evaluation, and an interactive Streamlit web application for predictions.
 
+Streamlit Link: https://bits-ml-assignment2-wsackzs9qgdz4px7mg8wbx.streamlit.app/
+
 ---
 
 ## 📋 Table of Contents
