@@ -337,18 +337,7 @@ ValueError: Feature names mismatch
 
 **Solution:** Ensure CSV has all required columns matching the template
 
----
 
-## 📝 Future Enhancements
-
-- [ ] Add SHAP/LIME for model interpretability
-- [ ] Implement hyperparameter tuning (GridSearchCV)
-- [ ] Add cross-validation results
-- [ ] Deploy to cloud (Streamlit Cloud/Heroku)
-- [ ] Add user authentication
-- [ ] Integrate with SQL database for storing predictions
-- [ ] Add A/B testing for model comparison in production
-- [ ] Implement real-time monitoring and retraining
 
 ---
 
