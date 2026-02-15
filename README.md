@@ -208,9 +208,9 @@ The application will open in your default browser at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-loan-approval-prediction/
+Root/
 │
-├── ML_Assignment_2_COMPLETE.ipynb  # Jupyter notebook for training
+├── ML_Assignment_2_v2.ipynb        # Jupyter notebook for training
 ├── app.py                          # Streamlit web application
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
