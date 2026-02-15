@@ -352,12 +352,6 @@ ValueError: Feature names mismatch
 
 ---
 
-## 📜 License
-
-This project is created for educational purposes as part of ML Assignment 2.
-
----
-
 ## 👨‍💻 Author
 
 **Sumit Mondal**
@@ -373,9 +367,6 @@ Student ID: 2024dc04216
 
 ---
 
-## 📧 Contact
-
-For questions or suggestions, please open an issue in the repository or contact the author.
 
 ---
 
