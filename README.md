@@ -342,22 +342,4 @@ ValueError: Feature names mismatch
 
 ---
 
-## 👨‍💻 Author
 
-**Sumit Mondal**
-Student ID: 2024dc04216
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset: [Tawei Lo on Kaggle](https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data)
-- Libraries: scikit-learn, Streamlit, Pandas, Plotly
-- Course: Machine Learning
-
----
-
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
