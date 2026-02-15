@@ -129,7 +129,7 @@ Download `loan_data.csv` from [Kaggle](https://www.kaggle.com/datasets/taweilo/l
 Run the Jupyter notebook to train all models and generate artifacts:
 
 ```bash
-jupyter notebook ML_Assignment_2_COMPLETE.ipynb
+jupyter notebook ML_Assignment_2_v2.ipynb
 ```
 
 Then execute all cells in the notebook.
