@@ -6,7 +6,7 @@
 A comprehensive machine learning system for predicting loan approval status using multiple classification algorithms. This project includes model training, evaluation, and an interactive Streamlit web application for predictions.
 
 Streamlit Link: https://bits-ml-assignment2-wsackzs9qgdz4px7mg8wbx.streamlit.app/
-
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bits-ml-assignment2-wsackzs9qgdz4px7mg8wbx.streamlit.app/)
 ---
 
 ## 📋 Table of Contents
@@ -107,8 +107,8 @@ The system provides:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd loan-approval-prediction
+git clone https://github.com/DevOps-MATT1/BITS-ML-Assignment2.git
+cd BITS-ML-Assignment2
 ```
 
 ### Step 2: Install Dependencies
