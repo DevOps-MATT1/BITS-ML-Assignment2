@@ -1,7 +1,8 @@
 # 🏦 Loan Approval Prediction System
 
 **ML Assignment 2 - Binary Classification**
-**Author:** Sumit Mondal (2024dc04216)
+<br>
+**Author: Sumit Mondal (2024dc04216)**
 
 A comprehensive machine learning system for predicting loan approval status using multiple classification algorithms. This project includes model training, evaluation, and an interactive Streamlit web application for predictions.
 
